@@ -46,7 +46,7 @@ streamlit.write('The user entered ', fruit_choice)
 # it normalizes the data 
 # it represents the data in dataframe like table 
 
-streamlit.stop()
+#streamlit.stop()
 
 streamlit.header("fruit load list contain:")
 
